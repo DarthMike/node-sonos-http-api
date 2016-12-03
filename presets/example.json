@@ -1,23 +1,7 @@
 {
   "players": [
     {
-      "roomName": "Bathroom",
-      "volume": 10
-    },
-    {
-      "roomName": "Kitchen",
-      "volume": 10
-    },
-    {
-      "roomName": "Office",
-      "volume": 10
-    },
-    {
-      "roomName": "Bedroom",
-      "volume": 10
-    },
-    {
-      "roomName": "TV Room",
+      "roomName": "Living Room",
       "volume": 15
     }
   ],
@@ -27,5 +11,5 @@
     "crossfade": false
   },
   "pauseOthers": false,
-  "favorite": "My example favorite"
+  "favorite": "Julia"
 }
